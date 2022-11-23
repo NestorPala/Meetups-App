@@ -1,0 +1,11 @@
+#main-navbar {
+    background-color: red;
+}
+
+#main-navbar p, 
+#basic-nav-dropdown {
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: auto;
+}
